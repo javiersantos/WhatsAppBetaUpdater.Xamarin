@@ -17,7 +17,6 @@
 ![Beta Updater for WhatsApp](http://i.imgur.com/bz5n9iZ.png)
 
 ## Translations
-[Help translating this app](https://crowdin.com/project/beta-updater-whatsapp)
 * English
 * Spanish
 * German
@@ -28,6 +27,9 @@
 * Portuguese
 * Turkish - Thanks to Furkan Taşkın -
 * Ukrainian - Thanks to Vitalii Demeshkant -
+
+### Tools
+Built with Xamarin.
 
 ## License
     Copyright 2015 Javier Santos
@@ -42,5 +44,5 @@
     MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
     GNU General Public License for more details.
 
-### Tools
-Built with Xamarin.
+## Disclaimer
+Beta Updater for WhatsApp app is not sponsored by or affiliated with WhatsApp Inc. WhatsApp Messenger, its name, trademark, and other aspects of the app are trademarked and owned by their respective owners.
