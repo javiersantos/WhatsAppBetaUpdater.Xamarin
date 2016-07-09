@@ -2,7 +2,6 @@
 
 <p align="center">
   <span class="badge-paypal"><a target="_blank" href="https://www.paypal.me/javiersantos" title="Donate using PayPal"><img src="https://img.shields.io/badge/paypal-donate-yellow.svg" /></a></span>
-  <span class="badge-patreon"><a target="_blank" href="http://patreon.com/javiersantos" title="Donate using Patreon"><img src="https://img.shields.io/badge/patreon-donate-yellow.svg" /></a></span>
 </p>
 
 <p align="center"><img src="https://github.com/javiersantos/WhatsAppBetaUpdater.Xamarin/blob/master/WhatsAppBetaUpdater/Resources/drawable-xxhdpi/ic_launcher.png" width="100" height="100"></p>
